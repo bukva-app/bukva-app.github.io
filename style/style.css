@@ -9,9 +9,14 @@
 
   .column {
     width: 100%;
+    max-width:1600px !important;
   }
   .row {
-    display:inline !important;
+    width: 100% !important;
+    display:inline-block !important;
+  }
+  .demo_video {
+   padding-left: 50px;
   }
 }
 
